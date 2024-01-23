@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding-bottom: 2rem;
+}
+.div {
+  height: 300px;
+  width: 300px;
+  margin-top: 2rem;
+}
+div {
+  border: 1px black solid;
+}
+button {
+  margin-top: 2rem;
+  padding: 1rem 1.2rem;
+  background-color: beige;
+  color: black;
+  border: none;
+  border-radius: 20px;
+}
+body {
+  text-align: center;
+}
